@@ -1,5 +1,5 @@
                                                                      
-                               **  [22,27,16,2,18,6] Yanda verilen dizinin Insertion Sort aşamalarını yazınız.  
+                                   **  [22,27,16,2,18,6] Yanda verilen dizinin Insertion Sort aşamalarını yazınız. **
 
                                              (1) [22,27,16,2,18,6] -> Dizideki en küçük indexi "2" bulur.
 
@@ -11,7 +11,7 @@
   
 
 
-                                                           **  Big-O gösterimini yazınız.  
+                                                           **  Big-O gösterimini yazınız.  **
                                                      Time Complexity wort case senaryosu:  O ( n² ) .
                                                    
                                                    
@@ -24,7 +24,7 @@
                                               { Best case: Aradığımız sayının dizinin en başında olması. }
 
 
-                                    **  [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.  
+                                    **  [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.  ** 
                                     
                                                                   ⬇️      ⬇️ 
                                                               (1) [2,3,5,8,7,9,4,15,6]

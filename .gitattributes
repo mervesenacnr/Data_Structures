@@ -7,11 +7,11 @@
                           (2) [2,27,16,22,18,6] -> Dizinin en başındaki index "22" ile bulunan en küçük sayının sıralarını değiştirir.
                                                                                                                                                         
                               ⬇️         ⬇️                                                                               ⬇️ ⬇️
-                        (3) [2,6,16,22,18,27] ->  Algoritma, dizi küçükten büyüğe sıralanana kadar devam eder.. -> [2,6,16,18,22,27] end
+                        (3) [2,6,16,22,18,27] ->  Algoritma, dizi küçükten büyüğe sıralanana kadar devam eder.. -> [2,6,16,18,22,27] end.
   
 
 
-                                                           **  Big-O gösterimini yazınız.  **
+                                                           **  Big-O gösterimini yazınız.  
                                                      Time Complexity wort case senaryosu:  O ( n² ) .
                                                    
                                                    

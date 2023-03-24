@@ -1,7 +1,7 @@
                               
                                    **  [22,27,16,2,18,6] Yanda verilen dizinin Insertion Sort aşamalarını yazınız.  
 
-                                              (1) [22,27,16,2,18,6] -> Dizideki en küçük indexi "2" bulur.
+                                              1- [22,27,16,2,18,6] -> Dizideki en küçük indexi "2" bulur.
 
                               ⬇️      ⬇️ 
                           (2) [2,27,16,22,18,6] -> Dizinin en başındaki index "22" ile bulunan en küçük sayının sıralarını değiştirir.

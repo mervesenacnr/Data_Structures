@@ -1,15 +1,40 @@
+                              
+                                   **  [22,27,16,2,18,6] Yanda verilen dizinin Insertion Sort aşamalarını yazınız.  **
 
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+                                              (1) [22,27,16,2,18,6] -> Dizideki en küçük indexi "2" bulur.
 
-Big-O gösterimini yazınız.
-
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
-.
+                              ⬇️      ⬇️ 
+                          (2) [2,27,16,22,18,6] -> Dizinin en başındaki index "22" ile bulunan en küçük sayının sıralarını değiştirir.
+                                                                                                                                                        
+                              ⬇️         ⬇️                                                                               ⬇️ ⬇️
+                        (3) [2,6,16,22,18,27] ->  Algoritma, dizi küçükten büyüğe sıralanana kadar devam eder.. -> [2,6,16,18,22,27] end
+  
 
 
+                                                           **  Big-O gösterimini yazınız.  **
+                                                     Time Complexity wort case senaryosu:  O ( n² ) .
+                                                   
+                                                   
 
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+                       **  Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.  **
+                                                                  18 ->  Average case                       
+
+                                                  { Average case: Aradığımız sayının ortada olması }
+                                                    { Worst case: Aradığımız sayının sonda olması }
+                                              { Best case: Aradığımız sayının dizinin en başında olması. }
+
+
+                                    **  [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.  **
+                                    
+                                                                  ⬇️      ⬇️ 
+                                                              (1) [2,3,5,8,7,9,4,15,6]
+                                                              
+                                                                    ⬇️✅ 
+                                                              (2) [2,3,5,8,7,9,4,15,6]
+                                                              
+                                                                      ⬇️✅
+                                                              (3) [2,3,5,8,7,9,4,15,6]
+                                                              
+                                                                        ⬇️⬇️ 
+                                                              (4) [2,3,5,7,8,9,4,15,6]
+                                                                                                                           

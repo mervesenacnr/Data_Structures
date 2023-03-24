@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="background-color:DodgerBlue;">hi</h1>
-
 
                                      **  [22,27,16,2,18,6] Yanda verilen dizinin Insertion Sort aşamalarını yazınız.  
 
@@ -44,5 +38,3 @@
                                                                         ⬇️⬇️ 
                                                               (4) [2,3,5,7,8,9,4,15,6] 
                                                                                                                            
-</body>
-</html>
